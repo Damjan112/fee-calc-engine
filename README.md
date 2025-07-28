@@ -203,7 +203,7 @@ GET /history/stats?startDate=2024-01-01&endDate=2024-12-31
 - **Why**: Stateless calculations for performance and flexibility
 - **Trade-off**: Dual API surface, but serves different use cases
 
-## 📈 What I Would Do Next (Given More Time)
+## 📈 What I Would Do Next
 
 
 - [ ] **API Documentation**: Swagger/OpenAPI integration
